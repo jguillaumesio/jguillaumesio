@@ -1,4 +1,4 @@
-# Guillaume Jacopin
+# Welcome !
 
 **Freelance Full‑Stack Developer - SaaS, Stripe & AI Agents**  
 Paris, France · Remote · 8+ years experience
