@@ -1,7 +1,7 @@
 # Welcome !
 
 **Freelance Full‑Stack Developer - SaaS, Stripe & AI Agents**  
-Paris, France · Remote · 8+ years experience
+Paris, France - Remote - 8+ years experience
 
 I help SaaS teams and founders **build, scale and modernize their products**.
 
@@ -25,8 +25,7 @@ I design and build end‑to‑end SaaS features:
 - Architecture for **scalability, reliability and easy maintenance**
 
 **Stack:**  
-`React` · `React Native` · `TypeScript` · `Node.js` · `PHP / Laravel` ·  
-`PostgreSQL` · `Redis` · `MySQL` · `MongoDB` · `AWS` · `Docker`
+`React` - `React Native` - `TypeScript` - `NodeJS` - `PHP / Laravel` - `PostgreSQL` - `Redis` - `MySQL` - `MongoDB` - `AWS` - `Docker`
 
 ---
 
@@ -57,14 +56,14 @@ I also work on **applied AI inside products**:
   - Significant time saved on ecosystem monitoring
 
 **AI tooling:**  
-`LLM integration` · `RAG` · `CocoIndex` · `Mastra` · `pgvector`
+`LLM integration` - `RAG` - `CocoIndex` - `Mastra` - `pgvector`
 
 ---
 
 ## How I Work
 
 - **100% remote & autonomous** - used to joining distributed teams
-- Comfortable taking **full ownership**: design → implementation → tests → deployment → documentation
+- Comfortable taking **full ownership**: design -> implementation -> tests -> deployment -> documentation
 - I can **quickly understand existing codebases**, refactor legacy, and improve performance and security
 - I care about **clean code, tests (unit/e2e)**, CI/CD and long‑term maintainability
 
@@ -73,19 +72,16 @@ I also work on **applied AI inside products**:
 ## Tech Summary
 
 - **Frontend & Mobile:**  
-  React · React Native · TypeScript · Vue.js · WebSockets
+  React - React Native - TypeScript - VueJS - NuxtJS - WebSockets
 
 - **Backend:**  
-  Node.js · PHP / Laravel · PostgreSQL · Redis · MySQL · MongoDB · REST APIs
+  NodeJS - PHP / Laravel - PostgreSQL - Redis - MySQL - MongoDB - REST
 
 - **AI & Data:**  
-  LLM integration · RAG · CocoIndex · Mastra · pgvector
+  LLM integration - RAG - CocoIndex - Mastra - pgvector
 
 - **Cloud & DevOps:**  
-  AWS · Docker · GitHub Actions · GitLab CI · Monorepos
-
-- **Architecture & Quality:**  
-  Microservices · Scalability · Web Security · Clean Code · Testing (unit / e2e)
+  AWS - Docker - GitHub Actions - GitLab CI - Monorepos
 
 ---
 
@@ -93,6 +89,6 @@ I also work on **applied AI inside products**:
 
 - Email: **jacopin.guillaume@orange.fr**  
 - GitHub: [github.com/jguillaumesio](https://github.com/jguillaumesio)  
-- Location: Paris, France · Open to remote missions (EU‑friendly timezones)
+- Location: Paris, France - Open to remote missions (EU‑friendly timezones)
 
 If you’re building or scaling a SaaS product and need help with **payments**, **real‑time features** or **AI integration**, feel free to reach out.
