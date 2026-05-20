@@ -87,7 +87,6 @@ I also work on **applied AI inside products**:
 
 ## Contact
 
-- Email: **jacopin.guillaume@orange.fr**  
 - GitHub: [github.com/jguillaumesio](https://github.com/jguillaumesio)  
 - Location: Paris, France - Open to remote missions (EU‑friendly timezones)
 
